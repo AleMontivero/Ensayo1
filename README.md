@@ -1,2 +1,3 @@
 # Ensayo1
-This project is part of one of my first experiences as a developer using HTML, CSS.
+VROPE is an e-commerce owned by two brothers from the city of Cordoba, Argentina. The design of the website was a team effort with the client.
+This mockup was one of the ones used in his presentation.
